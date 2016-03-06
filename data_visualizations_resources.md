@@ -10,10 +10,10 @@ http://helpmeviz.com/
 
 http://d3js.org/
 
-http://www.tableausoftware.com/public/
+http://www.tableausoftware.com/public/ (tableau public is free), tutorials https://public.tableau.com/s/resources
 
-http://raw.densitydesign.org/
+http://raw.densitydesign.org/ tutorial: https://vimeo.com/91605650
 
 http://www.adobe.com/products/illustrator.html
 
-https://plot.ly/
+https://plot.ly/ tutorials: http://help.plot.ly/
