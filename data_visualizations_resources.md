@@ -17,3 +17,7 @@ http://raw.densitydesign.org/ tutorial: https://vimeo.com/91605650
 http://www.adobe.com/products/illustrator.html
 
 https://plot.ly/ tutorials: http://help.plot.ly/
+
+## Getting data
+http://datajournalismhandbook.org/1.0/en/getting_data_0.html
+http://datajournalismhandbook.org/1.0/en/getting_data_3.html
