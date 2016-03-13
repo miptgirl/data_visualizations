@@ -21,3 +21,9 @@ https://plot.ly/ tutorials: http://help.plot.ly/
 ## Getting data
 http://datajournalismhandbook.org/1.0/en/getting_data_0.html
 http://datajournalismhandbook.org/1.0/en/getting_data_3.html
+
+### D3
+https://bost.ocks.org/mike/join/
+https://bost.ocks.org/mike/circles/
+http://alignedleft.com/tutorials/d3/binding-data
+
