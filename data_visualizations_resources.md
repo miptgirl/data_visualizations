@@ -22,6 +22,9 @@ https://plot.ly/ tutorials: http://help.plot.ly/
 ## Getting data
 http://datajournalismhandbook.org/1.0/en/getting_data_0.html
 http://datajournalismhandbook.org/1.0/en/getting_data_3.html
+https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public
+https://docs.google.com/document/d/1w7KhqotVi5eoKE3I_AZHbsxdr-NmcWsLTIiZrpxWx4w/pub
+https://www.kaggle.com/datasets
 
 ### D3
 https://bost.ocks.org/mike/join/
