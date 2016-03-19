@@ -32,4 +32,14 @@ https://bost.ocks.org/mike/selection/
 ## Maps
 http://mapschool.io/
 
+## Interaction
+http://www.stator-afm.com/tutorial/d3-js-mouse-events/
+http://christopheviau.com/d3_tutorial/
+http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html
+http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/
+http://tomhicks.github.io/code/2014/08/11/some-of-this.html
+http://www.jeromecukier.net/blog/2012/07/16/animations-and-transitions/
+http://synthesis.sbecker.net/articles/2012/07/10/learning-d3-part-3-animation-interaction
+http://blog.andreaskoller.com/2014/02/d3-and-ui-animations/
+https://bost.ocks.org/mike/bubble-map/
 
